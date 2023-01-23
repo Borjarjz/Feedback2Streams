@@ -1,5 +1,5 @@
 # Feedback2Streams
-Borja Rodriguez Jimenez- Feedback2 
+Borja Rodriguez Jimenez- Feedback2 Programacion concurrente
 
 Streams
 	1. Define una colección de ciudades (almacenando nombre, provincia, habitantes y extensión para cada una de ellas) y realiza las siguientes operaciones utilizando
